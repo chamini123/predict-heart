@@ -32,4 +32,4 @@
 
 ---
 
-#### Predict here: [Website Link](http://heart-disease-web-prediction.herokuapp.com/)
+#### Predict here: [Website Link](https://predict-hearts.herokuapp.com/)
